@@ -1,3 +1,10 @@
 h1{
   text-align: center;
 }
+p{
+  text-align: center;
+  color: blue
+}
+body{
+  background-image: url('https://media.licdn.com/dms/image/C4E03AQGElxqa_iQ-qQ/profile-displayphoto-shrink_800_800/0?e=1574294400&v=beta&t=rpyt-DICUb3d4WwPLTGc_sTTQcSY5D85RWaMGLaTbmQ')
+}
