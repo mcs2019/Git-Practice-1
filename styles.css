@@ -6,9 +6,17 @@ p{
   color: blue
 }
 body{
-  background-image: url('https://media.licdn.com/dms/image/C4E03AQGElxqa_iQ-qQ/profile-displayphoto-shrink_800_800/0?e=1574294400&v=beta&t=rpyt-DICUb3d4WwPLTGc_sTTQcSY5D85RWaMGLaTbmQ')
+  background: url('https://media.licdn.com/dms/image/C4E03AQGElxqa_iQ-qQ/profile-displayphoto-shrink_800_800/0?e=1574294400&v=beta&t=rpyt-DICUb3d4WwPLTGc_sTTQcSY5D85RWaMGLaTbmQ') top ,url('https://i.pinimg.com/originals/ff/2e/54/ff2e54f2ca5c09a877fb04d84bc562a4.jpg') left top,url('https://i.pinimg.com/originals/ff/2e/54/ff2e54f2ca5c09a877fb04d84bc562a4.jpg')right top;
+  background-size: 50%;
+  background-repeat:no-repeat;
+  /*background-position: top;*/
+  
 }
 
 #music{
   display: none;
+}
+.unicorn{
+  background-image: 
+  
 }
